@@ -13,3 +13,4 @@
 # life
 
 Projet d'algo ecris en python
+(en cours de redaction)
